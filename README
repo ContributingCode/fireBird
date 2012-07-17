@@ -2,4 +2,8 @@ Hello, this is a readme.
 
 Hello, this is another line.
 
+<<<<<<< HEAD
 Alternate 3rd line
+=======
+This is 3rd line version 2
+>>>>>>> experimental
